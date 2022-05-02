@@ -4,5 +4,4 @@ npm init -y
 Comandos instalación de paquetes
 npm i --save pg
 npm i --save express 
-npm i --save express-fileupload
 npm i --save body-parser
